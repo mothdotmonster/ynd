@@ -1,2 +1,3 @@
-# ynd
-Yachts and Dragons; a dice-rolling game
+#Yachts and Dragons
+
+a dice-rolling game
